@@ -37,7 +37,7 @@ class ExerciseMathTest {
     @Test
     void testFactorial4(){
         int answer = ExerciseMath.factorial(2);
-        assertEquals(2, answer, "TC4:期待された結果と異なります。");
+        assertEquals(333, answer, "TC4:期待された結果と異なります。");
     }
 
     @Test
